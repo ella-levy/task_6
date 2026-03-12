@@ -1,0 +1,18 @@
+YDL013W SLX5 SGDID:S000002171, Chr IV from 429067-430926, Genome Release 64-1-1, Verified ORF, "Subunit of the Slx5-Slx8 SUMO-targeted ubiquitin ligase (STUbL) complex, stimulated by SUMO-modified substrates; contains a RING domain and two SIMs (SUMO-interacting motifs); forms SUMO-dependent nuclear foci, including DNA repair centers"
+CGHAFCGRCFA
+YDL175C AIR2 SGDID:S000002334, Chr IV from 145518-144484, Genome Release 64-1-1, reverse complement, Verified ORF, "Zinc knuckle protein, involved in nuclear RNA processing and degredation as a component of the TRAMP complex; stimulates the poly(A) polymerase activity of Pap2p in vitro; functionally redundant with Air1p"
+CPHIICSYCGA
+YDR034W-B YDR034W-B SGDID:S000007234, Chr IV from 521314-521469, Genome Release 64-1-1, Uncharacterized ORF, "Predicted tail-anchored plasma membrane protein containing a conserved CYSTM module; related proteins in other organisms may be involved in response to stress; green fluorescent protein (GFP)-fusion protein localizes to the cell periphery"
+CCHFLCCLCLI
+YDR265W PEX10 SGDID:S000002673, Chr IV from 998864-999877, Genome Release 64-1-1, Verified ORF, "Peroxisomal membrane E3 ubiquitin ligase, required for for Ubc4p-dependent Pex5p ubiquitination and peroxisomal matrix protein import; contains zinc-binding RING domain; mutations in human homolog cause various peroxisomal disorders"
+CGHLFCWSCLM
+YKR017C YKR017C SGDID:S000001725, Chr XI from 473349-471694, Genome Release 64-1-1, reverse complement, Uncharacterized ORF, "Putative protein of unknown function; contains a RING finger motif"
+CNHMVCSSCKY
+YLR247C IRC20 SGDID:S000004237, Chr XII from 633354-628684, Genome Release 64-1-1, reverse complement, Verified ORF, "Putative helicase; localizes to the mitochondrion and the nucleus; YLR247C is not an essential gene; null mutant displays increased levels of spontaneous Rad52p foci"
+CGHYFCKSCIL
+YLR323C CWC24 SGDID:S000004315, Chr XII from 778952-778173, Genome Release 64-1-1, reverse complement, Verified ORF, "Essential protein, component of a complex containing Cef1p; has similarity to S. pombe Cwf24p"
+CGHYFCGSCFA
+YLR427W MAG2 SGDID:S000004419, Chr XII from 988428-990440, Genome Release 64-1-1, Verified ORF, "Cytoplasmic protein of unknown function; induced in response to mycotoxin patulin; ubiquitinated protein similar to the human ring finger motif protein RNF10; predicted to be involved in repair of alkylated DNA due to interaction with MAG1"
+CGHIFCLSCLL
+
+Number of proteins containing Zinc Finger Motif: 8
